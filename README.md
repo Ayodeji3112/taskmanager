@@ -40,7 +40,7 @@ License
 N.A
 
 
-link to deployed project: 
+link to deployed project:  https://ayodeji3112.github.io/taskmanager/
 
 
 Screenshots: 
