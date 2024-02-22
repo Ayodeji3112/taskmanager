@@ -44,3 +44,10 @@ link to deployed project:
 
 
 Screenshots: 
+
+<img width="1505" alt="Screenshot 2024-02-22 at 15 44 43" src="https://github.com/Ayodeji3112/taskmanager/assets/154736913/101a461f-4485-42aa-ac62-e9c6958ef859">
+
+<img width="1512" alt="Screenshot 2024-02-22 at 15 45 09" src="https://github.com/Ayodeji3112/taskmanager/assets/154736913/b0638a7d-f789-4542-81a1-bcb34375cffd">
+
+
+
